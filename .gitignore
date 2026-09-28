@@ -1,0 +1,14 @@
+# Build artifacts
+app
+*.o
+*.dSYM/
+
+# Generated pipeline output
+output/
+
+# Real breach-derived password corpus is kept LOCAL only, never published.
+# The committed data/sample.txt (synthetic) is used for a runnable demo instead.
+data/RawData.txt
+
+# OS files
+.DS_Store
