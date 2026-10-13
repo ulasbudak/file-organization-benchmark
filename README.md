@@ -39,7 +39,7 @@ src/            C sources
   search.c      sequential search over each representation
   utils.c       timing, file size, cross-platform CPU & RAM metrics, paths
 data/           input corpus (RawData.txt) — see data/README.md
-docs/           original course report and result screenshots
+docs/           sample benchmark output screenshot
 output/         generated at runtime (git-ignored)
 ```
 
